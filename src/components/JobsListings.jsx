@@ -1,4 +1,3 @@
-import React from 'react'
 import JobListing from './JobListing'
 import Jobs from '../jobs.json'
 
